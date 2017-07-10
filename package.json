@@ -1,0 +1,16 @@
+{
+  "name": "atulserver",
+  "version": "1.0.0",
+  "description": "Keeps generated localization data for consumption in `ad-frontend`",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ad-frontend-l10n-data": "atulsharma1208/ad-frontend-l10n-data",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
